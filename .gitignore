@@ -1,0 +1,47 @@
+## Angular related
+node_modules/
+dist/
+/tmp/
+/out-tsc/
+
+## IDEs and Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+## Logs and debugging
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+## System Files
+.DS_Store
+Thumbs.db
+
+## Environment files
+.env
+.env.*
+
+## Compiled files
+*.js
+*.d.ts
+*.map
+
+## Angular specific
+.angular/
+
+## Dependency directories
+functions/node_modules/
+
+## Miscellaneous
+coverage/
+karma-coverage/
+
+## Firebase
+.firebase/
+.firebase/*
+
+## Cypress
+cypress/screenshots/
+cypress/videos/
