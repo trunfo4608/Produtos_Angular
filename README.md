@@ -1,4 +1,4 @@
 # Produtos Angular 
 
-Projeto angular feito para interagir com a API Asp.Net ProdutoApp
+Projeto angular(16.2.3) feito para interagir com a API Asp.Net ProdutoApp .
 
